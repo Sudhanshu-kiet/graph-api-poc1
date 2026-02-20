@@ -14,3 +14,4 @@ using the OAuth2 client credentials flow.
 - Python
 - Requests library
 - Microsoft Graph API
+Updated documentation
